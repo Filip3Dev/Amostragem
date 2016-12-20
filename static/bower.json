@@ -1,0 +1,22 @@
+{
+  "name": "rdamasio",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Filip3Dev <filipwx7@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Filip3Dev",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-sites": "^6.2.3",
+    "font-awesome": "^4.6.3",
+    "slick-carousel": "^1.6.0"
+  }
+}
